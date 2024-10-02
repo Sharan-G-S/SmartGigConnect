@@ -1,0 +1,225 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v68_88 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v68_115 {
+  width: 372px;
+  height: 87px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 124px;
+  left: 375px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v68_89 {
+  width: 100%;
+  height: 79px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  overflow: hidden;
+}
+.v68_90 {
+  width: 268px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 11px;
+  left: 9px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_91 {
+  width: 188px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 48px;
+  left: 9px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_97 {
+  width: 200px;
+  height: 200px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 83px;
+  left: 143px;
+  border-radius: 50%;
+}
+.v68_111 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v68_111.png");
+  opacity: 1;
+  position: absolute;
+  top: 83px;
+  left: 143px;
+  border-radius: 50%;
+}
+.v68_114 {
+  width: 230px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 144px;
+  left: 446px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_117 {
+  width: 100%;
+  height: 630px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 311px;
+  left: 74px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v68_123 {
+  width: 416px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 637px;
+  left: 128px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_121 {
+  width: 459px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 488px;
+  left: 126px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v68_127 {
+  width: 100%;
+  height: 57px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 403px;
+  left: 177px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v68_128 {
+  width: 100%;
+  height: 57px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 555px;
+  left: 177px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v68_130 {
+  width: 100%;
+  height: 57px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 707px;
+  left: 177px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v68_132 {
+  width: 100%;
+  height: 57px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 846px;
+  left: 177px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v119_93 {
+  width: 223px;
+  height: 53px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 960px;
+  left: 1131px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v119_92 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 963px;
+  left: 1168px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
